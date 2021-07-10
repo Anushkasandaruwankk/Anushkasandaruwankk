@@ -1,6 +1,6 @@
 ### Hi there 👋
  - 🔭 I’m Anushka Sandaruwan. Thanks for visiting my github.
- - 🌱 I’m currently Undergraduate of University of Colombo School of Computing.
+ - 🌱 I’m Computer Science Graduate of University of Colombo School of Computing.
  - 📫 How to reach me :<a href="https://www.linkedin.com/in/anushkasandaruwan/"> LinkedIn </a> & <a href="https://anushkasandaruwankk.blogspot.com/"> Blog </a> 
  
  
